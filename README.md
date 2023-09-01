@@ -13,7 +13,7 @@ I'm actively seeking internship opportunities to enhance my skills and contribut
 - Java
 - C++
 - HTML & CSS
-- React.js
+
 
 <!---
 HarshakaSasindu/HarshakaSasindu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
