@@ -6,17 +6,19 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HarshakaSasindu/count.svg" />
-</p>
+</p> </br>
 
 ## About Me
+
 Hello! I'm Harshaka Sasindu, an undergraduate student at SLIATE.
 I'm enthusiastic about software development, with a keen interest in mobile and web development. 
-I'm actively seeking internship opportunities to enhance my skills and contribute to real-world projects.
+I'm actively seeking internship opportunities to enhance my skills and contribute to real-world projects. </br>
 
 - 🌱 Currently seeking internships in software development.
 - 📧 Contact me at: harshaka.sj@gmail.com.com
 - 💼 [LinkedIn Profile](www.linkedin.com/in/harshaka-sasindu-89a74b28a)
 
+  </br>
 
  ## 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
@@ -33,14 +35,21 @@ I'm actively seeking internship opportunities to enhance my skills and contribut
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 
+  <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
+</p> </br>
 
 ## My stats
+<div>
   <!-- GitHub Stats for all repositories -->
  <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshakaSasindu&show_icons=true&include_all_commits=true&theme=dracula) -->
 
 <!-- Top Languages across all repositories -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshakaSasindu&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshakaSasindu&layout=compact&theme=Dark)
+</div>
 
 
