@@ -49,7 +49,7 @@ I'm actively seeking internship opportunities to enhance my skills and contribut
  <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshakaSasindu&show_icons=true&include_all_commits=true&theme=dracula) -->
 
 <!-- Top Languages across all repositories -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshakaSasindu&layout=compact&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshakaSasindu&layout=donut&theme=nord)
 </div>
 
 
